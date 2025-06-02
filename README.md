@@ -1,12 +1,14 @@
 ### A few of my public repositories
 * [pnw4py](https://github.com/ajlee1976/pnw4py) - An API wrapper for the online game, Politics and War.
-  * Will be made public soon!
 * [rok-py](https://github.com/ajlee1976/rok_py) - An API wrapper for the online game, Rise of Kingdoms.
+* [env-kit](https://github.com/ajlee1976/env-kit) - A custom wrapper for the `os` module within Python, to allow for properly typed environment variables.
+* [terminus-formula-solver](https://github.com/ajlee1976/terminus-formula-solver) - A solution to an easter-egg step on the COD Zombies Terminus, used on [kronorium.com](https://kronorium.com/blackops6/terminus/)
 
 ### Other Projects
-* Politics and War - An online "Nation/Politics Simulator". Initially created by [Alex](https://github.com/ajwinchell), I am now a maintainer and developer of the game.  
+* Politics and War - An online "Nation/Politics Simulator" game. Initially created by [Alex](https://github.com/ajwinchell), I am now a maintainer and developer of the game.  
   * [Politics and War - Game](https://politicsandwar.com/)
   * [Politics and War - GraphQL API](https://api.politicsandwar.com/graphql-playground)
+* Diplomacy and Strife - An online "Economy/Nation managenment" game
 
 ### My Tech Stack
 <table>
